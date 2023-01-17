@@ -1,0 +1,26 @@
+.foo {
+  text-align: center;
+  background-color: rgb(194, 238, 163);
+  word-spacing: 50px;
+}
+.br {
+  text-indent: 20px;
+}
+
+.foo2 button {
+  font-size: 25px;
+  background-color: rgb(132, 248, 132);
+}
+.foo3 {
+  background-color: rgb(210, 238, 210);
+  line-height: 40px;
+}
+.foo3 button {
+  background-color: rgb(20, 124, 61);
+  color: white;
+  font-size: 20px;
+  height: 50px;
+}
+.foo3 .foo4 {
+  background-color: black;
+}
